@@ -1,0 +1,2 @@
+{"id":"4","nombre":"Bogota-Cali Promocion","lugarSalida":"Medellin","lugarLlegada":"Barranquilla","fecha":[2022,1,10,0,0]}
+{"id":"5","nombre":"Paseo a la costa","lugarSalida":"Bogota","lugarLlegada":"Santa Marta","fecha":[2022,1,10,0,0]}

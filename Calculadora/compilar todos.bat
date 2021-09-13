@@ -1,0 +1,1 @@
+mvn -f "./calculadora" clean install && mvn -f "./divisor" clean install &&  mvn -f "./eurekaserver" clean install && mvn -f "./multiplicador" clean install && mvn -f "./restador" clean install && mvn -f "./sumador" clean install
